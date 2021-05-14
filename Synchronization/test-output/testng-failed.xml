@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="waitsTestNG.FluentWaitTest">
+      <class name="waitsTestNG.FluentWaitCarousel">
         <methods>
-          <include name="fluentTest"/>
+          <include name="markdownsTest"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- waitsTestNG.FluentWaitTest -->
+      </class> <!-- waitsTestNG.FluentWaitCarousel -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

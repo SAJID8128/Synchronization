@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11561" started-at="2021-05-12T18:50:48 EDT" finished-at="2021-05-12T18:51:00 EDT">
+  <suite name="Default suite" duration-ms="36634" started-at="2021-05-14T11:45:25 EDT" finished-at="2021-05-14T11:46:02 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11561" started-at="2021-05-12T18:50:48 EDT" finished-at="2021-05-12T18:51:00 EDT">
-      <class name="waitsTestNG.FluentWaitTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:waitsTestNG.FluentWaitTest@32709393]" name="setUp" is-config="true" duration-ms="3023" started-at="2021-05-12T18:50:48 EDT" finished-at="2021-05-12T18:50:51 EDT">
+    <test name="Default test" duration-ms="36634" started-at="2021-05-14T11:45:25 EDT" finished-at="2021-05-14T11:46:02 EDT">
+      <class name="waitsTestNG.FluentWaitCarousel">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:waitsTestNG.FluentWaitCarousel@32709393]" name="setUp" is-config="true" duration-ms="8656" started-at="2021-05-14T11:45:25 EDT" finished-at="2021-05-14T11:45:34 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="radarTest()[pri:0, instance:waitsTestNG.FluentWaitTest@32709393]" name="radarTest" duration-ms="4195" started-at="2021-05-12T18:50:51 EDT" finished-at="2021-05-12T18:50:55 EDT">
+        <test-method status="PASS" signature="markdownsTest()[pri:1, instance:waitsTestNG.FluentWaitCarousel@32709393]" name="markdownsTest" duration-ms="19923" started-at="2021-05-14T11:45:34 EDT" finished-at="2021-05-14T11:45:54 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- radarTest -->
-        <test-method status="PASS" signature="weekendTest()[pri:0, instance:waitsTestNG.FluentWaitTest@32709393]" name="weekendTest" duration-ms="4122" started-at="2021-05-12T18:50:55 EDT" finished-at="2021-05-12T18:50:59 EDT">
+        </test-method> <!-- markdownsTest -->
+        <test-method status="PASS" signature="joinNowTest()[pri:2, instance:waitsTestNG.FluentWaitCarousel@32709393]" name="joinNowTest" duration-ms="4703" started-at="2021-05-14T11:45:54 EDT" finished-at="2021-05-14T11:45:59 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- weekendTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:waitsTestNG.FluentWaitTest@32709393]" name="tearDown" is-config="true" duration-ms="197" started-at="2021-05-12T18:50:59 EDT" finished-at="2021-05-12T18:51:00 EDT">
+        </test-method> <!-- joinNowTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:waitsTestNG.FluentWaitCarousel@32709393]" name="tearDown" is-config="true" duration-ms="3322" started-at="2021-05-14T11:45:59 EDT" finished-at="2021-05-14T11:46:02 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- waitsTestNG.FluentWaitTest -->
+      </class> <!-- waitsTestNG.FluentWaitCarousel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
